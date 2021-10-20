@@ -24,6 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Kibana
+      href: https://kibana.substrate.geometry.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
