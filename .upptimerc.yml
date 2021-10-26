@@ -7,17 +7,17 @@ sites:
     url: https://polkadot.geometry.io
   - name: Global Kusama RPC Endpoints
     url: https://kusama.geometry.io
-  - name: Global Polkadot Websockets
-    url: https://api.polkadot.geometry.io/api/v1/metrics/websockets
-  - name: Global Kusama Websockets
-    url: https://api.kusama.geometry.io/api/v1/metrics/websockets
+#  - name: Global Polkadot Websockets
+#    url: https://api.polkadot.geometry.io/api/v1/metrics/websockets
+#  - name: Global Kusama Websockets
+#    url: https://api.kusama.geometry.io/api/v1/metrics/websockets
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.substrate.geometry.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/geometry-labs/substrate-status-page/master/static/logo-w3f.jpeg
+  logoUrl: https://raw.githubusercontent.com/geometry-labs/substrate-status-page/master/assets/logo-w3f.jpeg
   name: Polkadot and Kusama Endpoint Status Page
   introTitle: "Endpoints deployed by **Geometry Labs** in support from the Web3 Foundation."
   introMessage: "TODO"
@@ -26,6 +26,8 @@ status-website:
       href: /
     - title: Kibana
       href: https://kibana.substrate.geometry.io
+    - title: Grafana
+      href: https://grafana.substrate.geometry.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
