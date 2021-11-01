@@ -4,9 +4,9 @@ repo: substrate-status-page # The name of this repository
 
 sites:
   - name: Global Polkadot RPC Endpoints
-    url: https://polkadot.geometry.io
+    url: https://polkadot.geometry.io/api
   - name: Global Kusama RPC Endpoints
-    url: https://kusama.geometry.io
+    url: https://kusama.geometry.io/api
 #  - name: Global Polkadot Websockets
 #    url: https://api.polkadot.geometry.io/api/v1/metrics/websockets
 #  - name: Global Kusama Websockets
