@@ -38,9 +38,9 @@ status-website:
   cname: status.substrate.geometry.io
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/geometry-labs/substrate-status-page/master/assets/logo-w3f.jpeg
-  name: Polkadot and Kusama Endpoint Status Page
-  introTitle: "Endpoints deployed by **Geometry Labs** in support from the Web3 Foundation."
-  introMessage: "TODO"
+  name: Status Page
+  introTitle: "**Polkadot and Kusama Status Page**"
+  introMessage: "Endpoints deployed by **Geometry Labs** supported by grants the Web3 Foundation."
   navbar:
     - title: Status
       href: /
@@ -49,7 +49,7 @@ status-website:
     - title: Grafana
       href: https://grafana.substrate.geometry.io
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/substrate-meta
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
