@@ -45,9 +45,11 @@ status-website:
     - title: Status
       href: /
     - title: Kibana
-      href: https://kibana.substrate.geometry.io
-    - title: Grafana
-      href: https://grafana.substrate.geometry.io
+      href: https://kibana.us-west-2.aws.geometry.io/app/dashboards#/view/3b6f9ad0-fc82-11eb-9d99-658467b44c78
+    - title: Telemetry
+      href: http://telemetry.substrate.geometry.io/
+#    - title: Grafana
+#      href: https://grafana.substrate.geometry.io
     - title: GitHub
       href: https://github.com/$OWNER/substrate-meta
 
