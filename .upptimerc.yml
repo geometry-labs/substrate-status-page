@@ -27,6 +27,18 @@ sites:
     headers:
           - "Content-Type: application/json; charset=utf-8"
     data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+  - name: EU WEST Polkadot RPC Endpoints
+    url: https://polkadot-eu-west-1.geometry.io/api
+    method: POST
+    headers:
+          - "Content-Type: application/json; charset=utf-8"
+    data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+  - name: EU WEST Kusama RPC Endpoints
+    url: https://kusama-eu-west-1.geometry.io/api
+    method: POST
+    headers:
+          - "Content-Type: application/json; charset=utf-8"
+    data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
 #  - name: Global Polkadot Websockets
 #    url: https://api.polkadot.geometry.io/api/v1/metrics/websockets
 #  - name: Global Kusama Websockets
