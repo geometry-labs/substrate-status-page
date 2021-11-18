@@ -1,7 +1,7 @@
 url: https://polkadot.geometry.io/api
-status: up
-code: 200
-responseTime: 4882
-lastUpdated: 2021-11-18T10:03:32.131Z
+status: down
+code: 504
+responseTime: 5389
+lastUpdated: 2021-11-18T10:49:04.969Z
 startTime: Mon Nov 01 2021 19:24:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
