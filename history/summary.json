@@ -4,17 +4,17 @@
     "url": "https://polkadot.geometry.io/api",
     "icon": "https://favicons.githubusercontent.com/polkadot.geometry.io",
     "slug": "global-polkadot-rpc-endpoints",
-    "status": "up",
-    "uptime": "92.21%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "89.79%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "92.21%",
-    "time": 1820,
-    "timeDay": 344,
-    "timeWeek": 1073,
-    "timeMonth": 1861,
-    "timeYear": 1820,
+    "status": "down",
+    "uptime": "92.25%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "89.78%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "92.25%",
+    "time": 1818,
+    "timeDay": 347,
+    "timeWeek": 1069,
+    "timeMonth": 1858,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2021-12-04": 54,
       "2021-12-03": 74,
@@ -25,7 +25,7 @@
       "2021-11-28": 160,
       "2021-11-27": 38,
       "2021-11-26": 247,
-      "2021-11-25": 15
+      "2021-11-25": 9
     }
   },
   {
@@ -45,7 +45,7 @@
     "timeMonth": 870,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2021-12-04": 837,
+      "2021-12-04": 845,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
@@ -84,17 +84,17 @@
     "url": "https://polkadot-us-west-2.geometry.io/api",
     "icon": "https://favicons.githubusercontent.com/polkadot-us-west-2.geometry.io",
     "slug": "us-west-polkadot-rpc-endpoints",
-    "status": "up",
-    "uptime": "91.49%",
-    "uptimeDay": "89.89%",
-    "uptimeWeek": "85.64%",
-    "uptimeMonth": "91.49%",
-    "uptimeYear": "91.49%",
-    "time": 1480,
-    "timeDay": 236,
-    "timeWeek": 517,
-    "timeMonth": 1501,
-    "timeYear": 1480,
+    "status": "down",
+    "uptime": "91.53%",
+    "uptimeDay": "89.87%",
+    "uptimeWeek": "85.71%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "91.53%",
+    "time": 1478,
+    "timeDay": 239,
+    "timeWeek": 516,
+    "timeMonth": 1498,
+    "timeYear": 1478,
     "dailyMinutesDown": {
       "2021-12-04": 89,
       "2021-12-03": 186,
@@ -102,7 +102,7 @@
       "2021-12-01": 495,
       "2021-11-30": 137,
       "2021-11-29": 179,
-      "2021-11-28": 157
+      "2021-11-28": 150
     }
   },
   {
@@ -122,7 +122,7 @@
     "timeMonth": 1494,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2021-12-04": 837,
+      "2021-12-04": 845,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
