@@ -1,7 +1,7 @@
 url: https://polkadot-eu-west-1.geometry.io/api
-status: up
-code: 200
-responseTime: 101
-lastUpdated: 2021-12-10T09:21:28.832Z
+status: down
+code: 504
+responseTime: 5294
+lastUpdated: 2021-12-10T10:06:49.470Z
 startTime: Mon Nov 22 2021 18:30:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
