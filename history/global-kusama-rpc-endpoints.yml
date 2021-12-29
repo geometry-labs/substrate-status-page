@@ -1,7 +1,7 @@
 url: https://kusama.geometry.io/api
-status: down
-code: 503
-responseTime: 352
-lastUpdated: 2021-12-29T10:44:31.484Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2021-12-29T10:50:53.886Z
 startTime: Mon Nov 22 2021 18:30:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
