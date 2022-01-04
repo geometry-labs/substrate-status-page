@@ -49,7 +49,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.substrate.geometry.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/geometry-labs/substrate-status-page/master/assets/logo-w3f.jpeg
+  logoUrl: https://raw.githubusercontent.com/geometry-labs/substrate-status-page/master/assets/geometry-logo.png
   name: Status Page
   introTitle: "**Polkadot and Kusama Status Page**"
   introMessage: "Endpoints deployed by **Geometry Labs** supported by grants the Web3 Foundation."
