@@ -1,7 +1,7 @@
 url: https://kusama-eu-west-1.geometry.io/api
-status: down
-code: 503
-responseTime: 1409
-lastUpdated: 2022-01-05T06:42:06.001Z
+status: up
+code: 200
+responseTime: 102
+lastUpdated: 2022-01-05T06:52:33.740Z
 startTime: Mon Nov 22 2021 18:30:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
