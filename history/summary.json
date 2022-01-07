@@ -4,17 +4,17 @@
     "url": "https://polkadot-us-west-2.geometry.io/api",
     "icon": "https://favicons.githubusercontent.com/polkadot-us-west-2.geometry.io",
     "slug": "us-west-polkadot-rpc-endpoints",
-    "status": "up",
-    "uptime": "80.38%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "35.23%",
+    "status": "down",
+    "uptime": "80.39%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "35.36%",
     "uptimeMonth": "72.06%",
-    "uptimeYear": "80.38%",
-    "time": 1392,
-    "timeDay": 1426,
-    "timeWeek": 2118,
-    "timeMonth": 1505,
-    "timeYear": 1392,
+    "uptimeYear": "80.39%",
+    "time": 1391,
+    "timeDay": 1241,
+    "timeWeek": 2074,
+    "timeMonth": 1496,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2022-01-07": 14,
       "2022-01-05": 212,
@@ -36,7 +36,7 @@
       "2021-12-06": 118,
       "2021-12-05": 46,
       "2021-12-04": 119,
-      "2021-12-03": 71
+      "2021-12-03": 65
     }
   },
   {
