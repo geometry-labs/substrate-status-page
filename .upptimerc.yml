@@ -9,24 +9,44 @@ sites:
     headers:
           - "Content-Type: application/json; charset=utf-8"
     data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+  - name: US WEST Polkadot WS Endpoints
+    url: wss://polkadot-us-west-2.geometry.io/websocket
+    check: "ws"
+    data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+    maxResponseTime: 10000
   - name: US WEST Kusama RPC Endpoints
     url: https://kusama-us-west-2.geometry.io/api
     method: POST
     headers:
           - "Content-Type: application/json; charset=utf-8"
     data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+  - name: US WEST Kusama WS Endpoints
+    url: wss://kusama-us-west-2.geometry.io/websocket
+    check: "ws"
+    data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+    maxResponseTime: 10000
   - name: EU WEST Polkadot RPC Endpoints
     url: https://polkadot-eu-west-1.geometry.io/api
     method: POST
     headers:
           - "Content-Type: application/json; charset=utf-8"
     data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+  - name: EU WEST Polkadot WS Endpoints
+    url: wss://polkadot-eu-west-1.geometry.io/websocket
+    check: "ws"
+    data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+    maxResponseTime: 10000
   - name: EU WEST Kusama RPC Endpoints
     url: https://kusama-eu-west-1.geometry.io/api
     method: POST
     headers:
           - "Content-Type: application/json; charset=utf-8"
     data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+  - name: EU WEST Kusama WS Endpoints
+    url: wss://kusama-eu-west-1.geometry.io/websocket
+    check: "ws"
+    data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
