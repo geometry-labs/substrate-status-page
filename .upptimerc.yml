@@ -1,5 +1,5 @@
 # Change these first
-owner: geometry-labs # Your GitHub organization or username, where this repository lives
+owner: sudoblockio # Your GitHub organization or username, where this repository lives
 repo: substrate-status-page # The name of this repository
 
 sites:
@@ -25,6 +25,7 @@ sites:
     check: "ws"
     data: { "jsonrpc":"2.0", "method":"system_health", "params":[],"id":1 }
     maxResponseTime: 10000
+
 #  - name: EU WEST Polkadot RPC Endpoints
 #    url: https://polkadot-eu-west-1.geometry.io/api
 #    method: POST
@@ -51,9 +52,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.substrate.geometry.io
+  cname: status.substrate.sudoblock.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/geometry-labs/substrate-status-page/master/assets/geometry-logo.png
+  logoUrl: https://raw.githubusercontent.com/sudoblockio/substrate-status-page/master/assets/geometry-logo.png
   name: Status Page
   introTitle: "**Polkadot and Kusama Status Page**"
   introMessage: "Endpoints deployed by **Geometry Labs** supported by grants the Web3 Foundation."
